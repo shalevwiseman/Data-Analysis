@@ -1,7 +1,7 @@
-# Data Analysis Project for AI Performance Optimization
+# Data Analysis Project
 
 ## Introduction
-This project, created by Shalev Wiseman, is aimed at addressing critical aspects of data analysis with direct application to performance optimization in AI technologies. Primarily working with FHIR-formatted patient encounter data, this notebook underscores skills essential for enhancing AI performance, particularly within NVIDIA's Spectrum-X / Infiniband platform.
+This project is aimed at addressing critical aspects of data analysis with direct application to performance optimization in AI technologies. Primarily working with FHIR-formatted patient encounter data, this notebook underscores skills essential for enhancing AI performance.
 
 ## Objectives
 The primary objectives showcased within this notebook align with key tasks in data-driven AI performance optimization:
